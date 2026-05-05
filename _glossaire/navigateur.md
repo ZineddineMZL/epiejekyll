@@ -12,4 +12,4 @@ related_terms:
 
 Un **navigateur** interprete le code HTML/CSS/JavaScript d'un site pour l'afficher a l'ecran.
 
-Exemples connus: Firefox, Chrome, Edge, Safari.
+
